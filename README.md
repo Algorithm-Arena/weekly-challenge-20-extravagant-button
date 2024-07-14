@@ -10,7 +10,7 @@
 
 https://github.com/Algorithm-Arena/weekly-challenge-20-extravagant-button/assets/197597/dc8682e0-3c98-41f8-8180-ddec3553b9f7
 
-* In second place with $50 is @morenicogs! This is a Chrome extension that brings you back to the 2000s and enhance any website you have with Comic Sans and hearts 💕 https://github.com/Algorithm-Arena/weekly-challenge-20-extravagant-button/issues/3
+* In second place with $50 is @nicogs! This is a Chrome extension that brings you back to the 2000s and enhance any website you have with Comic Sans and hearts 💕 https://github.com/Algorithm-Arena/weekly-challenge-20-extravagant-button/issues/3
 
 ![week-20-2](https://github.com/Algorithm-Arena/weekly-challenge-20-extravagant-button/assets/197597/5fcaf1f6-61e3-4293-8151-60a9ed82b372)
 
